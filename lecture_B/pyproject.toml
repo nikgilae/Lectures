@@ -1,0 +1,13 @@
+[project]
+name = "lecture-b"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "agno>=2.2.11",
+    "ddgs>=9.9.0",
+    "duckduckgo-search>=8.1.1",
+    "fastapi>=0.121.2",
+    "openai>=2.8.0",
+]
